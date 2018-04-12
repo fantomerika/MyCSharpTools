@@ -1,2 +1,2 @@
-# MyC-Tools
-个人收集的C#程序的工具类库
+# MyCSharpTools
+个人收集的C#语言的工具类库与学习教程demo
