@@ -7,3 +7,13 @@ D:\webWorkSpace\ItsZ'sToolKit\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csproj.CoreC
 D:\webWorkSpace\ItsZ'sToolKit\ItsZ'sToolKit\bin\Debug\NPOI.xml
 D:\webWorkSpace\ItsZ'sToolKit\ItsZ'sToolKit\bin\Debug\Gma.QrCodeNet.Encoding.pdb
 D:\webWorkSpace\ItsZ'sToolKit\ItsZ'sToolKit\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\GitHubDemo\ItsZ'sToolKit\bin\Debug\ItsZ'sToolKit.dll
+E:\GitHubDemo\ItsZ'sToolKit\bin\Debug\ItsZ'sToolKit.pdb
+E:\GitHubDemo\ItsZ'sToolKit\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+E:\GitHubDemo\ItsZ'sToolKit\bin\Debug\Gma.QrCodeNet.Encoding.xml
+E:\GitHubDemo\ItsZ'sToolKit\bin\Debug\NPOI.xml
+E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csprojResolveAssemblyReference.cache
+E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csproj.CoreCompileInputs.cache
+E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csproj.CopyComplete
+E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.dll
+E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.pdb
