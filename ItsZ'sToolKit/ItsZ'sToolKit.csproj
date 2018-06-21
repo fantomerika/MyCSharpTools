@@ -102,11 +102,13 @@
     <Compile Include="FCache\LocalCache.cs" />
     <Compile Include="Helper\AttributeHelper.cs" />
     <Compile Include="Helper\CodeTimerHelper.cs" />
+    <Compile Include="Helper\DebugLogHelper.cs" />
     <Compile Include="Helper\GuidHelper.cs" />
     <Compile Include="Helper\HttpWebHelper.cs" />
     <Compile Include="Helper\LoggerHelper.cs" />
     <Compile Include="Helper\RandomHelper.cs" />
     <Compile Include="Helper\Types.cs" />
+    <Compile Include="Helper\URLHealper.cs" />
     <Compile Include="Interface\ICache.cs" />
     <Compile Include="Interface\IReadRepository.cs" />
     <Compile Include="Interface\IRepository.cs" />

@@ -1,0 +1,11 @@
+E:\GitHubDemo\TestWeb\bin\Debug\netcoreapp2.0\TestWeb.deps.json
+E:\GitHubDemo\TestWeb\bin\Debug\netcoreapp2.0\TestWeb.runtimeconfig.json
+E:\GitHubDemo\TestWeb\bin\Debug\netcoreapp2.0\TestWeb.runtimeconfig.dev.json
+E:\GitHubDemo\TestWeb\bin\Debug\netcoreapp2.0\TestWeb.dll
+E:\GitHubDemo\TestWeb\bin\Debug\netcoreapp2.0\TestWeb.pdb
+E:\GitHubDemo\TestWeb\obj\Debug\netcoreapp2.0\TestWeb.csprojAssemblyReference.cache
+E:\GitHubDemo\TestWeb\obj\Debug\netcoreapp2.0\TestWeb.csproj.CoreCompileInputs.cache
+E:\GitHubDemo\TestWeb\obj\Debug\netcoreapp2.0\TestWeb.AssemblyInfoInputs.cache
+E:\GitHubDemo\TestWeb\obj\Debug\netcoreapp2.0\TestWeb.AssemblyInfo.cs
+E:\GitHubDemo\TestWeb\obj\Debug\netcoreapp2.0\TestWeb.dll
+E:\GitHubDemo\TestWeb\obj\Debug\netcoreapp2.0\TestWeb.pdb

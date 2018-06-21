@@ -1,0 +1,7 @@
+E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.csprojAssemblyReference.cache
+E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.csproj.CoreCompileInputs.cache
+E:\GitHubDemo\WinServerManage\bin\Debug\WinServerManage.exe.config
+E:\GitHubDemo\WinServerManage\bin\Debug\WinServerManage.exe
+E:\GitHubDemo\WinServerManage\bin\Debug\WinServerManage.pdb
+E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.exe
+E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.pdb
