@@ -5,3 +5,9 @@ E:\GitHubDemo\WinServerManage\bin\Debug\WinServerManage.exe
 E:\GitHubDemo\WinServerManage\bin\Debug\WinServerManage.pdb
 E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.exe
 E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.pdb
+E:\GitHubDemo\WinServerManage\bin\Debug\JobScheduling.dll
+E:\GitHubDemo\WinServerManage\bin\Debug\Quartz.dll
+E:\GitHubDemo\WinServerManage\bin\Debug\JobScheduling.pdb
+E:\GitHubDemo\WinServerManage\bin\Debug\Quartz.pdb
+E:\GitHubDemo\WinServerManage\bin\Debug\Quartz.xml
+E:\GitHubDemo\WinServerManage\obj\Debug\WinServerManage.csproj.CopyComplete

@@ -1,0 +1,13 @@
+E:\GitHubDemo\WinServer\bin\Debug\WinServer.exe.config
+E:\GitHubDemo\WinServer\bin\Debug\WinServer.exe
+E:\GitHubDemo\WinServer\bin\Debug\WinServer.pdb
+E:\GitHubDemo\WinServer\bin\Debug\Quartz.dll
+E:\GitHubDemo\WinServer\bin\Debug\Quartz.pdb
+E:\GitHubDemo\WinServer\bin\Debug\Quartz.xml
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.csprojAssemblyReference.cache
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.ProjectInstaller.resources
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.csproj.GenerateResource.cache
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.csproj.CoreCompileInputs.cache
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.csproj.CopyComplete
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.exe
+E:\GitHubDemo\WinServer\obj\Debug\WinServer.pdb

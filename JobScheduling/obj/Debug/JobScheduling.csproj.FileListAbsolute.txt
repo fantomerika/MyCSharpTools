@@ -1,0 +1,10 @@
+E:\GitHubDemo\JobScheduling\obj\Debug\JobScheduling.csprojAssemblyReference.cache
+E:\GitHubDemo\JobScheduling\obj\Debug\JobScheduling.csproj.CoreCompileInputs.cache
+E:\GitHubDemo\JobScheduling\bin\Debug\JobScheduling.dll
+E:\GitHubDemo\JobScheduling\bin\Debug\JobScheduling.pdb
+E:\GitHubDemo\JobScheduling\bin\Debug\Quartz.dll
+E:\GitHubDemo\JobScheduling\bin\Debug\Quartz.pdb
+E:\GitHubDemo\JobScheduling\bin\Debug\Quartz.xml
+E:\GitHubDemo\JobScheduling\obj\Debug\JobScheduling.csproj.CopyComplete
+E:\GitHubDemo\JobScheduling\obj\Debug\JobScheduling.dll
+E:\GitHubDemo\JobScheduling\obj\Debug\JobScheduling.pdb

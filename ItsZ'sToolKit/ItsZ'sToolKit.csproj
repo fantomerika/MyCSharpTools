@@ -109,6 +109,7 @@
     <Compile Include="Helper\RandomHelper.cs" />
     <Compile Include="Helper\Types.cs" />
     <Compile Include="Helper\URLHealper.cs" />
+    <Compile Include="Helper\XMLHelper.cs" />
     <Compile Include="Interface\ICache.cs" />
     <Compile Include="Interface\IReadRepository.cs" />
     <Compile Include="Interface\IRepository.cs" />

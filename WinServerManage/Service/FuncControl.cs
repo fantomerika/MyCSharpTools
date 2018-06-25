@@ -91,5 +91,10 @@ namespace WinServerManage.Service
                 Environment.Exit(1);
             }
         }
+
+        public void doTest()
+        {
+            new JobScheduling.test().start();
+        }
     }
 }

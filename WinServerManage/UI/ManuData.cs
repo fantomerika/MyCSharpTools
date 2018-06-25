@@ -58,6 +58,14 @@ namespace WinServerManage.UI
                 PId=0,
                 Sort=5
             });
+            listData.Add(new Menu()
+            {
+                Id = 6,
+                Name = "6.调用测试方法",
+                FuncName = "doTest",
+                PId = 0,
+                Sort = 6
+            });
             return listData;
         }
     }
