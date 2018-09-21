@@ -168,6 +168,19 @@ namespace Framework.Common.Extension
             return inputStr.IsNullOrEmpty() ? inputStr : Regex.Replace(inputStr, pattern, replacement);
         }
 
+		/// <summary>
+        /// 排除字符串
+        /// </summary>
+        /// <param name="inputStr">输入</param>
+        /// <param name="ExcludeStr">被排除的字符串</param>
+        /// <returns></returns>
+        public static string Exclude(this string inputStr,string ExcludeStr)
+        {
+            int subIndexStart=inputStr.IndexOf(ExcludeStr);
+            var firstCode=inputStr.Substring(0, subIndexStart); 
+            var lastCode= inputStr.Substring(ExcludeStr.Length+ subIndexStart);
+            return firstCode + lastCode;
+        }
         #endregion
 
         #region 读取配置文件

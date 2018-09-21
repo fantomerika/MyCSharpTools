@@ -26,7 +26,7 @@ namespace Framework.Common.Helper
             {
                 var randomBytes = new byte[10];
                 Rng.GetBytes(randomBytes);
-
+                
                 var timestamp = DateTime.UtcNow.Ticks / 10000L;
                 var timestampBytes = BitConverter.GetBytes(timestamp);
 

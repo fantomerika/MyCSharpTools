@@ -107,6 +107,7 @@
     <Compile Include="Helper\HttpWebHelper.cs" />
     <Compile Include="Helper\LoggerHelper.cs" />
     <Compile Include="Helper\RandomHelper.cs" />
+    <Compile Include="Helper\RegularHelper.cs" />
     <Compile Include="Helper\Types.cs" />
     <Compile Include="Helper\URLHealper.cs" />
     <Compile Include="Helper\XMLHelper.cs" />

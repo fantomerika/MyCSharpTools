@@ -13,3 +13,4 @@ E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csproj.CoreCompileInputs.cac
 E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csproj.CopyComplete
 E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.dll
 E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.pdb
+E:\GitHubDemo\ItsZ'sToolKit\obj\Debug\ItsZ'sToolKit.csprojAssemblyReference.cache
